@@ -1,0 +1,1 @@
+C:\Users\jyfu2\AppData\Local\Microsoft\WindowsApps;D:\Anaconda;D:\Anaconda\Scripts\;D:\Anaconda\Library\bin;D:\Anaconda\Library\mingw-w64\bin;E:\minGW\mingw64\bin;E:\CMake\bin;D:\Software Files\SlickEditPro\win\;E:\LLVM\bin;E:\MySQL\bin;E:\pandoc-2.1.1;D:\Cmder\vendor\git-for-windows\usr\bin;
