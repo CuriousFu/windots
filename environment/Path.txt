@@ -1,1 +1,1 @@
-C:\Users\jyfu2\AppData\Local\Microsoft\WindowsApps;D:\Anaconda;D:\Anaconda\Scripts\;D:\Anaconda\Library\bin;D:\Anaconda\Library\mingw-w64\bin;E:\minGW\mingw64\bin;E:\CMake\bin;D:\Software Files\SlickEditPro\win\;E:\LLVM\bin;E:\MySQL\bin;E:\pandoc-2.1.1;D:\Cmder\vendor\git-for-windows\usr\bin;
+E:\Anaconda;E:\Anaconda\Library\mingw-w64\bin;E:\Anaconda\Library\usr\bin;E:\Anaconda\Library\bin;E:\Anaconda\Scripts;C:\Users\jyfu2\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\ClockworkMod\Universal Adb Driver;D:\PortableApps\AtomPortable\App\Atom\bin;E:\CMake\bin
